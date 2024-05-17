@@ -1,2 +1,2 @@
-def suma(*num):
-    return sum(num)
+Nombre= "nico"
+Apellido= "gonzalez"
